@@ -5,4 +5,4 @@ Goal:
 
     - [ ] Setting up an api
     - [ ] Swagger
-    - [ ] DockerFile for settung
+    - [ ] DockerFile for testing and debugging
